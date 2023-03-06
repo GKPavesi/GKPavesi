@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Guilherme Pavesi! 👏
 
-<!--
-**GKPavesi/GKPavesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+#### About Me
+I'm a web developer from Brazil! My interests include web development and artificial intelligence. I'm passionate about solving complex problems and creating innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+#### Current Stack
+- ⚡️ Main Languages: `Javascript`, `C#`.<br>
+- 📡 Backend: `Node.JS` `.NET Framework`.<br>
+- 🎉 Frontend: `React.JS`, `HTML5`, `CSS`, `Javascript`, `jQuery`.<br>
+- 💾 Databases: `MSSQL`, `MYSQL`, `POSTGRESQL`.<br>
+- 🎨 Layout Design: `Figma`.<br>
+- 📦️ Version Code Control: `Git & Github`.<br>
+- 🔨 Tools: `VsCode`, `Visual Studio`.
+
+<br>
+
+#### CONTACT
+- 🌍 Linkedin: [Click Here](https://www.linkedin.com/in/guilherme-pavesi-15552520a/).
